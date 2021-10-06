@@ -1,0 +1,22 @@
+h1 {
+ color: rgb(15, 15, 15);
+ background-color: rgb(255, 0, 98);
+ font-family: sans-serif;
+}
+.one {
+  font-family: "Lorem ipsum dolor",serif;
+  color: blueviolet;
+}
+.two {
+  font-family: "Ex laboriosam",cursive;
+  color: blueviolet;
+}
+#number {
+  font-family: monospace;
+  color: blueviolet;
+}
+#first {
+  font-family: fantasy;
+  color: blueviolet;
+}
+
